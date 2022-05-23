@@ -1,0 +1,35 @@
+.photo {
+  height: 80px;
+  width: 80px;
+}
+
+a{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 30px;
+}
+a:hover, a:active {
+  color: black;
+}
+#btn {
+	font-size: 25px;
+	color: black;
+	padding: 20px;
+}
+
+#btn:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+#title {
+	font-size: 30px;
+	color: white;
+	padding: 20px;	
+}
+
+#title:hover {
+	color: black;
+	text-decoration: underline;
+}
